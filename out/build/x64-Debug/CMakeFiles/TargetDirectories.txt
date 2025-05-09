@@ -1,0 +1,9 @@
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/CMakeFiles/WeaponizerCore.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/CMakeFiles/RedShiftWeaponizer.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/test/CMakeFiles/RedShiftTests.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/test/CMakeFiles/test.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/Red Shift Weaponizer/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir

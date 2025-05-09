@@ -1,0 +1,17 @@
+# ninja log v6
+63	1037	7685227904215228	test/CMakeFiles/RedShiftTests.dir/weapon_tests.cpp.obj	e3768cea55d9d254
+45	1563	7685227904045073	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	9952c332caa7e1f
+31	439	7685225002888768	CMakeFiles/RedShiftWeaponizer.dir/src/main.cpp.obj	40f819ce191df14d
+28	449	7685225002858739	CMakeFiles/WeaponizerCore.dir/src/weaponAssembler.cpp.obj	43fa7f72b3b4f5a0
+28	465	7685228475796322	CMakeFiles/WeaponizerCore.dir/src/inputGetter.cpp.obj	c6eddf6f5829770e
+23	4775	7685236822566023	build.ninja	20bff74044fd4cb3
+466	503	7685228480170298	WeaponizerCore.lib	1384acdba4c48be8
+505	1048	7685223089893840	RedShiftWeaponizer.exe	8076fb175f5ddc53
+39	1046	7685227903975008	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	e34831b23d2ca7e5
+58	1134	7685227904175192	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	4f83628caf5413f2
+54	1548	7685227904135154	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	aad3b2fa0ed311e
+49	2249	7685227904085112	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	eb93765f08a2d987
+42	2268	7685227904015046	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	5d3b0812f4c2b43
+35	2275	7685227903944985	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	96103c9a19039a79
+33	94	7685228475836354	lib/gtest.lib	176b33edb6340b1e
+94	127	7685228476456918	lib/gtest_main.lib	527cb6e35cf92d3c

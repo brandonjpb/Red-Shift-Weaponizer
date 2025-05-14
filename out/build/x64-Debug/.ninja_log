@@ -1,6 +1,0 @@
-# ninja log v6
-13	840	7689607534144143	CMakeFiles/WeaponizerCore.dir/src/inputGetter.cpp.obj	6d736567627033d9
-18	844	7689607534184182	CMakeFiles/WeaponizerCore.dir/src/weaponAssembler.cpp.obj	769566546281f28e
-845	904	7689607542451714	WeaponizerCore.lib	ed6e54a50eea4024
-21	1614	7689607534214208	test/CMakeFiles/RedShiftTests.dir/weapon_tests.cpp.obj	7524c69eeb163774
-1615	3345	7689607550158738	test/RedShiftTests.exe	15b9e21cddc16346

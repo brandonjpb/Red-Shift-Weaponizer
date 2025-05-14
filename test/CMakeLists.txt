@@ -1,11 +1,11 @@
-# Minimal test config
+# test/CMakeLists.txt
 find_package(GTest REQUIRED)
 
 add_executable(RedShiftTests
     weapon_tests.cpp
 )
 target_link_libraries(RedShiftTests PRIVATE
-    WeaponizerCore  # Link to library now
+    WeaponizerCore
     GTest::GTest
     GTest::Main
 )
